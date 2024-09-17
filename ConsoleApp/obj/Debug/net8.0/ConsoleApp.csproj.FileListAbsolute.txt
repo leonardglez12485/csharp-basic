@@ -1,0 +1,14 @@
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

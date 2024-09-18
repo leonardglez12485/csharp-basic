@@ -12,3 +12,4 @@
 /Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/leonardglez/Documents/Desarrollo/C#/Basico/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json

@@ -1,0 +1,1 @@
+Func<int, int, int> sub = (int a, int b) => a - b;
